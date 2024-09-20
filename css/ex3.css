@@ -1,0 +1,14 @@
+table, td, th {
+    border: 3px solid black;
+    padding: 5px;
+}
+
+th {
+    font-weight: bold;
+}
+
+img {
+    max-width: 5000px;
+    max-height: 5000px;
+    align-items: center;
+}
